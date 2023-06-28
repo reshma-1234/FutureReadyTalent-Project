@@ -55,7 +55,7 @@ These days, due to the pandemic, there has been a great increase in no of patien
 
 ![2023-06-28 (4)](https://github.com/reshma-1234/FutureReadyTalent-Project/assets/109510775/f4c4fb91-941d-4370-a7da-86fc39534f98)
 
-## Techologies Used -
+## Technologies Used -
 - Azure(Hosting)
 - HTML
 - CSS
