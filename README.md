@@ -12,7 +12,7 @@ This Web based Health application has been developed for the accomplishment of F
 
 **Project Link** - https://gentle-cliff-07541c800.3.azurestaticapps.net/
 
-**Project Demo Video Link** -
+**Project Demo Video Link** - https://www.youtube.com/watch?v=ae2Dw9tq_Xg
 
 ## Azure Technologies Used in Project 
 - Static Web Apps
